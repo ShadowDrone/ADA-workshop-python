@@ -1,0 +1,6 @@
+Genero,Casado,Dependientes,Educacion,Autonomo,Ingresos,CoIngresos,Importe_Prestamo,Dias_Prestamo,Historial_Credito,Area
+001088,Masculino,No,0,Universitario,No,3502,0,500,360,1,Urbano
+001089,Femenino,Si,1,Universitario,No,6650,2050,128,360,1,Rural
+001090,Femenino,Si,0,Universitario,Si,2000,0,166,360,1,Urbano
+001091,Masculino,Si,0,Secundario,No,2583,2358,120,360,1,Urbano
+001092,Femenino,No,3,Secundario,No,4000,250,500,360,1,Urbano
